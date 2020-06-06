@@ -1,6 +1,6 @@
 backports.shutil-get-terminal-size==1.0.0
 decorator==4.4.1
-Django==1.11
+Django==1.11.29
 enum34==1.1.6
 gunicorn==19.9.0
 ipython==5.8.0
